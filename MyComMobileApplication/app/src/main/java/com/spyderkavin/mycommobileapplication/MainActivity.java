@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity {
         //webSettings.setJavaScriptEnabled(true);
 */
         WebView myWebView = (WebView) findViewById(R.id.webview);
-        myWebView.loadUrl("https://github.com/amannindra/hackathon");
+        myWebView.loadUrl("https://87c9-206-213-190-64.ngrok-free.app/ ");
 
     };
 }
